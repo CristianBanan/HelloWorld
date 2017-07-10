@@ -10,6 +10,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Deus Vult!");
             System.Console.Out.Write("Hellow World");
         }
     }
